@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+cf6db6567aba6d9f3fda4e03d9ba2d691493900b refs/remotes/origin/AUCTION-3-signup
+6a1a4c45926eb9bb2946fae75e0c4bc0a91551d0 refs/remotes/origin/AUCTION-5-test
+d510e43084cbe128226f5206a2acff59b5ad17c7 refs/remotes/origin/AUCTION-7-asd1
+f836719177d0aecffaf030afc58dfccc5f2837da refs/remotes/origin/AUCTION-8-usenavigate
+9ea1508f90695ff9f27ad456e0832b1e8828f8d3 refs/remotes/origin/AUCTION-9-sasas
+49539d451161c27d1f349da8e0a7a6827e1651a1 refs/remotes/origin/master
